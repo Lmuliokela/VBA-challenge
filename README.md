@@ -1,6 +1,6 @@
 # VBA-challenge
 
-...
+---
 
 ## Description
 
